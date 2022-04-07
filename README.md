@@ -15,3 +15,6 @@ I am a backend developer with a little bit frondend code! And now i try to find 
 - Buying another lamp :) 
 
 **What've I been up to this week?** 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
