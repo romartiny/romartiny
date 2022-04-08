@@ -21,4 +21,11 @@ I am a backend developer with a little bit frondend code! And now i try to find 
 
 <!--START_SECTION:waka-->
 
+```text
+From: 31 March 2022 - To: 07 April 2022
+
+PHP    14 mins         ██████████████████░░░░░░░   71.86 %
+YAML   5 mins          ███████░░░░░░░░░░░░░░░░░░   28.14 %
+```
+
 <!--END_SECTION:waka-->
