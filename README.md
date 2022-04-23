@@ -22,11 +22,14 @@ I am a backend developer with a little bit frondend code! And now i try to find 
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-PHP    2 hrs 22 mins   ███████████████▓░░░░░░░░░   62.37 %
-CSS    1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   37.63 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML         2 hrs 41 mins   █████████████▓░░░░░░░░░░░   54.14 %
+CSS          1 hr 26 mins    ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+PHP          46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
