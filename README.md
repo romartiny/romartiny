@@ -17,7 +17,6 @@ I am a backend developer with a little bit frondend code! And now i try to find 
 
 -------
 
-**What've I been up to this week?**
 **🔓Update only from VS CODE🔓**
 
 <!--START_SECTION:waka-->
