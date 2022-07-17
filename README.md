@@ -22,7 +22,7 @@ I am a backend developer with a little bit frondend code! And now i try to find 
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 July 2022 - To: 15 July 2022
+From: 09 July 2022 - To: 16 July 2022
 
 PHP             4 hrs 11 mins   ███████████████████▒░░░░░   77.17 %
 CSS             30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
