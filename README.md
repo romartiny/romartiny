@@ -14,7 +14,7 @@ I am a backend developer with a little bit frondend code! And now i try to find 
 - 9 completed personal projects
 - 13 unreleased projects
 - 6 certifications
-- 1 working store
+- 1 public merchandise store
 
 -------
 
