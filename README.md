@@ -7,12 +7,15 @@
 I am a backend developer with a little bit frondend code! And now i try to find ways to improve the world with my little talents in coding! Just give me some time and i amaze all.
 <img align="right" alt="gif" src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gif" width="530" height="223" />
 
-**What I'm up to?**
+**Profile Information**
 
-- Full focused on learning PHP and JS
-- Fix bots for chats
-- Creating some content for IT groups on sosial boards
-- I have some projects in the works I can't wait to share
-- Buying another lamp :) 
+- 23 public repositories 
+- 37 hidden repositories
+- 9 completed personal projects
+- 13 unreleased projects
+- 6 certifications
 
 -------
+
+
+
