@@ -39,7 +39,5 @@ I am a backend and frontend developer! And now i try to find ways to improve the
 - 29 public repositories 
 - 37 hidden repositories
 
--------
-
 
 
