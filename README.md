@@ -29,7 +29,12 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-### Happy to meet you! &nbsp; ![](https://komarev.com/ghpvc/?username=romartiny) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romartiny/)
+<div align="center">
+  <h3>Happy to meet you! &nbsp; ![](https://komarev.com/ghpvc/?username=romartiny)</h3>
+  <a href="https://www.linkedin.com/in/romartiny/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
 
 I am a backend and frontend developer! And now i try to find ways to improve the world with my little talents in coding! Just give me some time and i amaze all.
 <img align="right" alt="gif" src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gif" width="530" height="223" />
