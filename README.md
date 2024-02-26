@@ -33,8 +33,8 @@ I am a backend and frontend developer! And now i try to find ways to improve the
 
 **Profile Information**
 
-- 34 public repositories 
-- 24 hidden repositories
+- 35 public repositories 
+- 25 hidden repositories
 
 
 
